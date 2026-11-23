@@ -1,0 +1,5 @@
+Meeting of April 10, 2026:
+- Launch API v2 before April 30
+- Marketing budget: $5,000
+- Priority client contact: Sarah Miller (sarah@example.com)
+- Tech stack decided: FastAPI + PostgreSQL + Redis
